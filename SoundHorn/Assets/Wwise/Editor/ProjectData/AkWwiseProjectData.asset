@@ -16,8 +16,8 @@ MonoBehaviour:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{16C146F4-8260-49B7-A8C4-0818AE5E5520}'
-    m_lastTimePsrt1: 1167090039
-    m_lastTimePart2: -1999278940
+    m_lastTimePsrt1: -1102910304
+    m_lastTimePart2: -1999278939
     List:
     - Name: Hund
       Path: Default Work Unit\Hund
@@ -68,8 +68,8 @@ MonoBehaviour:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{C5B73D8D-D490-45F3-982D-6E9DAD3023CE}'
-    m_lastTimePsrt1: 1167025090
-    m_lastTimePart2: -1999278940
+    m_lastTimePsrt1: -1102715172
+    m_lastTimePart2: -1999278939
     List:
     - Name: New_SoundBank
       Path: Default Work Unit\New_SoundBank
