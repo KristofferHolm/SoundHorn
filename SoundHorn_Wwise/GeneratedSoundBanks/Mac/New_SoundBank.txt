@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3452698164	Play_ringtone			\Default Work Unit\Play_ringtone	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	860302921	ringtone	C:\Users\Krist\Documents\WwiseProjects\SoundHorn\.cache\Mac\SFX\ringtone_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\ringtone		306240
+
