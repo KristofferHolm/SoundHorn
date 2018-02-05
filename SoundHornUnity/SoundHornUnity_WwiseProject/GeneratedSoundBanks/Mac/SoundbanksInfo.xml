@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
-		<ProjectRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
