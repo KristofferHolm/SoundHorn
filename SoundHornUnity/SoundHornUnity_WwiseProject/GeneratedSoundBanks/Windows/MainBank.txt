@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3026097922	Test_Dog			\Default Work Unit\Test_Dog	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	195757020	Test Dog	C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\.cache\Windows\SFX\Hund_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test Dog		62436
-
