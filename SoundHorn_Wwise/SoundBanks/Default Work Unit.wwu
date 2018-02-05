@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="New_SoundBank" ID="{AB4C6E85-80AA-4B29-8850-C10B1BA1B41A}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Hund" ID="{39195140-FAEB-49F9-96AD-9126DCA86D6C}" WorkUnitID="{16C146F4-8260-49B7-A8C4-0818AE5E5520}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Play_ringtone" ID="{9982944A-2851-4B70-BC78-17271D4ADF22}" WorkUnitID="{16C146F4-8260-49B7-A8C4-0818AE5E5520}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

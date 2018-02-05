@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundHorn", "SoundHorn.csproj", "{B8C861AA-3E0D-1F30-73BC-6ED5751BE6FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundHorn.Editor", "SoundHorn.Editor.csproj", "{61645AB5-19BF-BD86-0EBB-6E9A2B8BA443}"
