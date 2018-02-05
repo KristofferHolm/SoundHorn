@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundHornUnity", "SoundHornUnity.csproj", "{3CE2A3CB-6EB8-0212-0C53-154C7D179C20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundHornUnity.Editor", "SoundHornUnity.Editor.csproj", "{547177F7-E4AA-BEA8-3679-54442D203F41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{3CE2A3CB-6EB8-0212-0C53-154C7D179C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE2A3CB-6EB8-0212-0C53-154C7D179C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE2A3CB-6EB8-0212-0C53-154C7D179C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547177F7-E4AA-BEA8-3679-54442D203F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547177F7-E4AA-BEA8-3679-54442D203F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547177F7-E4AA-BEA8-3679-54442D203F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547177F7-E4AA-BEA8-3679-54442D203F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
