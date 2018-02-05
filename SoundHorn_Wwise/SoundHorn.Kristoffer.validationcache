@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="85">
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Effects\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Effects\Factory Effects.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Events\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Modulators\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Presets\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Queries\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Queries\Factory Queries.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\SoundHorn.wproj" DateLow="1517837505" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\States\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Switches\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Triggers\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Attenuations\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Audio Devices\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Control Surface Sessions\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Conversion Settings\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Effects\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Effects\Factory Effects.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Events\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Game Parameters\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Mixing Sessions\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Modulators\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Presets\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Queries\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Queries\Factory Queries.wwu" DateLow="1517830273" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\SoundBanks\Default Work Unit.wwu" DateLow="1517837969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\SoundHorn.Kristoffer.wsettings" DateLow="1517837443" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\SoundHorn.wproj" DateLow="1517837505" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\States\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Switches\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Triggers\Default Work Unit.wwu" DateLow="1517837433" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Krist\Documents\WwiseProjects\SoundHorn\Virtual Acoustics\Default Work Unit.wwu" DateLow="1517837434" DateHigh="0"/>
+</ValidationCache>

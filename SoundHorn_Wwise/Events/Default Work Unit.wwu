@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{16C146F4-8260-49B7-A8C4-0818AE5E5520}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{16C146F4-8260-49B7-A8C4-0818AE5E5520}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_ringtone" ID="{9982944A-2851-4B70-BC78-17271D4ADF22}">
+					<ChildrenList>
+						<Action Name="" ID="{9B3F2A7B-7C44-4CCB-A659-76B47999D85C}" ShortID="752156716">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ringtone" ID="{75783FDE-F12D-4503-ACDD-7DA57BDCBB0C}" WorkUnitID="{577301BA-D161-4FE5-B5D3-F6B5D27BFF22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
