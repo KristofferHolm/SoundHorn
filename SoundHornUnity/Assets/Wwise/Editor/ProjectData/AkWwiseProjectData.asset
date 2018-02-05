@@ -16,59 +16,129 @@ MonoBehaviour:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{CD66BDE3-6C19-4DD3-A3D0-82F1F6FD05EE}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617316710
     m_lastTimePart2: -1999278964
     List: []
+=======
+    m_lastTimePsrt1: 1962511262
+    m_lastTimePart2: -1999278962
+    List:
+    - Name: Test_Dog
+      Path: Default Work Unit\Test_Dog
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Test_Dog
+        ObjectType: 3
+      ID: -1268869374
+      Guid: 624917067751a04aae6dc5c335bac737
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{DAD8726A-3A27-494E-989A-FD8F289E5A8F}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617246671
     m_lastTimePart2: -1999278964
+=======
+    m_lastTimePsrt1: -2048609323
+    m_lastTimePart2: -1999278963
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
     List: []
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{A8909AD3-4639-468F-B745-19251EF805B7}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617446820
     m_lastTimePart2: -1999278964
+=======
+    m_lastTimePsrt1: -2048529156
+    m_lastTimePart2: -1999278963
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
     List: []
   SwitchWwu:
   - PhysicalPath: Switches\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{910EB953-52D3-4472-BA4E-DF5813333115}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617376765
     m_lastTimePart2: -1999278964
+=======
+    m_lastTimePsrt1: -2048519243
+    m_lastTimePart2: -1999278963
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
     List: []
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{3B2F232A-A059-485E-A950-6B54D6770FDE}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617516852
     m_lastTimePart2: -1999278964
     List: []
+=======
+    m_lastTimePsrt1: 1962396047
+    m_lastTimePart2: -1999278962
+    List:
+    - Name: MainBank
+      Path: Default Work Unit\MainBank
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: MainBank
+        ObjectType: 7
+      ID: -1414229400
+      Guid: c8c4f71f4ae67c41b65fb12235364c60
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{CDCB86A6-E758-49DD-9053-F3496A02BC6D}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 616898606
     m_lastTimePart2: -1999278964
+=======
+    m_lastTimePsrt1: -2048629338
+    m_lastTimePart2: -1999278963
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{21F2106B-EB55-4B25-828C-B146A0367FE7}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 617962175
     m_lastTimePart2: -1999278964
+=======
+    m_lastTimePsrt1: -2048509244
+    m_lastTimePart2: -1999278963
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
     List: []
   AcousticTextureWwu:
   - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{9242ED24-7720-49D9-BC00-90391AB6BB51}'
+<<<<<<< HEAD
     m_lastTimePsrt1: 618197356
     m_lastTimePart2: -1999278964
     List: []
   ExpandedItems: []
+=======
+    m_lastTimePsrt1: -2048509244
+    m_lastTimePart2: -1999278963
+    List: []
+  ExpandedItems:
+  - /SoundHornUnity_WwiseProject
+  - /SoundHornUnity_WwiseProject/Events
+  - /SoundHornUnity_WwiseProject/Events/Default Work Unit
+  - /SoundHornUnity_WwiseProject/SoundBanks
+  - /SoundHornUnity_WwiseProject/SoundBanks/Default Work Unit
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
   m_lastPopulateTimePsrt1: 0
   m_lastPopulateTimePart2: 0
   autoPopulateEnabled: 1

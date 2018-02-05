@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
+<<<<<<< HEAD
 		<ProjectRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\</ProjectRoot>
 		<SourceFilesRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\.cache\Mac\</SourceFilesRoot>
 		<SoundBanksRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
 		<ExternalSourcesOutputRoot>C:\Users\Krist\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+=======
+		<ProjectRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\Esben\Documents\SoundHorn\SoundHornUnity\SoundHornUnity_WwiseProject\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,5 +24,22 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
+<<<<<<< HEAD
+=======
+		<SoundBank Id="2880737896" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainBank</ObjectPath>
+			<ShortName>MainBank</ShortName>
+			<Path>MainBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3026097922" Name="Test_Dog" ObjectPath="\Events\Default Work Unit\Test_Dog"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="195757020" Language="SFX">
+					<ShortName>Hund.wav</ShortName>
+					<Path>SFX\Hund_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+>>>>>>> fdc1e313637784de56f1c4557c40871eadb5585b
 	</SoundBanks>
 </SoundBanksInfo>
