@@ -22,6 +22,30 @@
 						<ActiveSource Name="ringtone" ID="{CD1AF5A7-DBE4-4F23-9193-61737D591109}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Hund" ID="{0A4A3559-76CD-4929-A127-67BBA0CC08DB}" ShortID="991592855">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="IsLoopingInfinite" Type="bool" Value="False"/>
+						<Property Name="LoopCount" Type="int32" Value="3"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{30D07B2F-86BA-4D4C-ACBA-25C918CED4C3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3A333EC9-2DB9-401B-AD59-6BA61C4C7D2D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Hund" ID="{FD3942BC-8542-40D2-BB00-08B1843FBCE5}" ShortID="824577591">
+							<Language>SFX</Language>
+							<AudioFile>Hund.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Hund" ID="{FD3942BC-8542-40D2-BB00-08B1843FBCE5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

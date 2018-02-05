@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\</ProjectRoot>
+		<SourceFilesRoot>E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Krist\Documents\SoundHorn\SoundHorn_Wwise\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -21,9 +21,14 @@
 			<ShortName>New_SoundBank</ShortName>
 			<Path>New_SoundBank.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3126836846" Name="Hund" ObjectPath="\Events\Default Work Unit\Hund"/>
 				<Event Id="3452698164" Name="Play_ringtone" ObjectPath="\Events\Default Work Unit\Play_ringtone"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="824577591" Language="SFX">
+					<ShortName>Hund.wav</ShortName>
+					<Path>SFX\Hund_F17FB28C.wem</Path>
+				</File>
 				<File Id="860302921" Language="SFX">
 					<ShortName>ringtone.wav</ShortName>
 					<Path>SFX\ringtone_1C9C67B2.wem</Path>

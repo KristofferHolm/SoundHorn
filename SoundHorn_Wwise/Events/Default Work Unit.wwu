@@ -17,6 +17,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Hund" ID="{39195140-FAEB-49F9-96AD-9126DCA86D6C}">
+					<ChildrenList>
+						<Action Name="" ID="{05208B8D-F780-4FBC-B2AA-A770BB395B4B}" ShortID="319006102">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hund" ID="{0A4A3559-76CD-4929-A127-67BBA0CC08DB}" WorkUnitID="{577301BA-D161-4FE5-B5D3-F6B5D27BFF22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
