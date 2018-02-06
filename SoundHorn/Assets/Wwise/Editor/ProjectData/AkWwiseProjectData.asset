@@ -16,8 +16,8 @@ MonoBehaviour:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{16C146F4-8260-49B7-A8C4-0818AE5E5520}'
-    m_lastTimePsrt1: 1167090039
-    m_lastTimePart2: -1999278940
+    m_lastTimePsrt1: -1638223613
+    m_lastTimePart2: -1999278759
     List:
     - Name: Hund
       Path: Default Work Unit\Hund
@@ -47,9 +47,20 @@ MonoBehaviour:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
     ParentPhysicalPath: 
     Guid: '{3A333EC9-2DB9-401B-AD59-6BA61C4C7D2D}'
-    m_lastTimePsrt1: -2033703370
-    m_lastTimePart2: -1999278941
-    List: []
+    m_lastTimePsrt1: -1638418042
+    m_lastTimePart2: -1999278759
+    List:
+    - Name: Reverb
+      Path: Default Work Unit\Master Audio Bus\Reverb
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      ID: 348963605
+      Guid: 85dd2b3c3ec5ec409d17d723cbe77ba8
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
     ParentPhysicalPath: 

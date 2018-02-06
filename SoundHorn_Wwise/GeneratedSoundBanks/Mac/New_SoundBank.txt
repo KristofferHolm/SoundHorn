@@ -1,8 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
 	3126836846	Hund			\Default Work Unit\Hund	
-	3452698164	Play_ringtone			\Default Work Unit\Play_ringtone	
+	3393031215	Ringtone			\Default Work Unit\Ringtone	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	824577591	Hund	E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\SFX\Hund_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hund		62436
-	860302921	ringtone	E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\SFX\ringtone_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\ringtone		306240
+	824577591	Hund	E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\SFX\Hund_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Puzzle Objects\Hund		62436
+	860302921	ringtone	E:\Esben\Documents\SoundHorn\SoundHorn_Wwise\.cache\Mac\SFX\ringtone_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Puzzle Objects\ringtone		306240
 

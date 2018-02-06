@@ -9,6 +9,25 @@
 							<ObjectRef Name="System" ID="{A340C7B6-D79D-4C5D-B459-D4A2A4D8C5CE}" WorkUnitID="{84B80FFE-BFEC-4917-AF0C-577AF65D8639}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Music" ID="{A7E70E46-44A1-45F9-8505-B6978D3EB8E8}"/>
+						<Bus Name="Ambience" ID="{2E2B025C-647A-4E01-9352-0CFE4DCAE4F4}"/>
+						<Bus Name="Puzzle Objects" ID="{196AB770-1691-44EF-B49F-5F123E07A435}"/>
+						<AuxBus Name="Reverb" ID="{3C2BDD85-C53E-40EC-9D17-D723CBE77BA8}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<ValueList>
+										<Value>-5</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+									<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+					</ChildrenList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>
