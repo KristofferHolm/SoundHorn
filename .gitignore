@@ -14,25 +14,23 @@ project.lock.json
 # ===================================== #
 
 .vs/
-ExportedObj/
-obj/*
-.svd*
-.userprefs/*
-.csproj*
-.csproj*
-.pidb*
-.suo/*
-.sln*
-.sln*
-.user*
-.unityproj*
-.ipch*
-.opensdf*
-.sdf*
-.tlog*
-.log*
-.idb*
-.opendb
+*.svd
+*.userprefs/
+*.csproj
+*.csproj
+*.pidb
+*.suo/
+*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.idb
+*.opendb
 
 WSATestCertificate.pfx
 WSATestCertificate.pfx.meta
