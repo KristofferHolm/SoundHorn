@@ -80,7 +80,10 @@ public class AkEvent : AkUnityEventHandler
         else if (m_callbackData != null)
             playingId = AkSoundEngine.PostEvent((uint)eventID, gameObj, (uint)m_callbackData.uFlags, Callback, null, 0, null, AkSoundEngine.AK_INVALID_PLAYING_ID);
         else
+        {
             playingId = AkSoundEngine.PostEvent((uint)eventID, gameObj);
+          
+        }
 
         if (playingId == AkSoundEngine.AK_INVALID_PLAYING_ID && AkSoundEngine.IsInitialized())
             Debug.LogError("Could not post event ID \"" + eventID + "\". Did you make sure to load the appropriate SoundBank?");
