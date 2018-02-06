@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: AkWwiseProjectData 1
   m_EditorClassIdentifier: 
   CurrentPluginConfig: 
+<<<<<<< HEAD
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
@@ -210,6 +211,17 @@ MonoBehaviour:
     List: []
   ExpandedItems:
   - /SoundHorn
+=======
+  EventWwu: []
+  AuxBusWwu: []
+  StateWwu: []
+  SwitchWwu: []
+  BankWwu: []
+  RtpcWwu: []
+  TriggerWwu: []
+  AcousticTextureWwu: []
+  ExpandedItems: []
+>>>>>>> 871095ce7d20005b9e2874fe7dcedef2a01a1587
   m_lastPopulateTimePsrt1: 0
   m_lastPopulateTimePart2: 0
   autoPopulateEnabled: 1
