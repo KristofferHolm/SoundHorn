@@ -312,12 +312,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\PlayerManager.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Procedural Mesh\ExtrudeRandomEdges.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Runtime Editing\RuntimeEdit.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Vertex Colors\HighlightNearestFace.cs" />
+    <Compile Include="Assets\SoundHorn\Scripts\BaseClasses\BaseSingleton.cs" />
+    <Compile Include="Assets\SoundHorn\Scripts\BaseClasses\BaseVariables.cs" />
     <Compile Include="Assets\Wwise\Deployment\API\Generated\Common\_ArrayPoolDefault.cs" />
     <Compile Include="Assets\Wwise\Deployment\API\Generated\Common\_ArrayPoolLEngineDefault.cs" />
     <Compile Include="Assets\Wwise\Deployment\API\Generated\Common\_ArrayPoolSpatialAudio.cs" />
