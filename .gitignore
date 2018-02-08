@@ -8,6 +8,7 @@
 [Ll]ibrary/
 [Aa]pp/
 UnityGenerated/
+SoundHorn/Assets/Wwise/Editor/ProjectData
 project.json
 project.lock.json
 # ===================================== #
