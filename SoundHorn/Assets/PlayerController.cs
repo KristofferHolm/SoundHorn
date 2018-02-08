@@ -42,8 +42,9 @@ namespace script
             Debug.DrawRay(transform.position,  Vector3.down * (PlayerManager.Instance.Footstep + 1f),Color.red);
             if (!Physics.Raycast(transform.position, Vector3.down, out hit, PlayerManager.Instance.Footstep + 1f))
             {
-                _rig.velocity += Vector3.down * _rig.velocity.magnitude;
+                _rig.velocity += Vector3.down *2;
             }
+            ///https://www.youtube.com/watch?v=MtP81RjvtnE
         }
 
         private Vector3 Look()
