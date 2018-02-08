@@ -9,6 +9,9 @@ namespace Managers
 
         public float MovementSpeed;
         public float MouseSensitivity;
+        public float JoystickSensitivity;
+        public float TopDownRotationLock = 10;
+        public float Footstep = 0.1f;
         public bool LockMovement = false;
         public bool InvertMouse = false;
         //references

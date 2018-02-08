@@ -51,8 +51,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6785c1ff4ceff7143a19caa96c0f2516, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovementSpeed: 10
+  MovementSpeed: 200
   MouseSensitivity: 100
+  JoystickSensitivity: 100
+  TopDownRotationLock: 80
+  Footstep: 0.11
   LockMovement: 0
   InvertMouse: 1
-  Player: {fileID: 1828559477449562, guid: b3ab8a70f8ee6b045bb021c2d15b3a16, type: 2}
+  Player: {fileID: 0}
