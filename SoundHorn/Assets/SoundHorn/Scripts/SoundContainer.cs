@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class SoundContainer : MonoBehaviour {
     // Use this for initialization
-    AkAmbient ak;
+    public SoundEnum Sound;
+
+    public Material IdleImage;
+    public Material ActiveImage;
+
+
     void Start () {
-        ak = GetComponentInChildren<AkAmbient>();
+    
       
 
 	}
     private void OnCollisionEnter(Collision collision)
     {
-        AkSoundEngine.PostEvent((uint)ak.eventID, gameObject);
+       
     }
     // Update is called once per frame
     void Update () {

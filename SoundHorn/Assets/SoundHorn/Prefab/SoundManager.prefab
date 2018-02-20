@@ -9,77 +9,65 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1172690410887546}
+  m_RootGameObject: {fileID: 1757750207568724}
   m_IsPrefabParent: 1
---- !u!1 &1172690410887546
+--- !u!1 &1757750207568724
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4024764066355824}
-  - component: {fileID: 114372359072475570}
+  - component: {fileID: 4261636037111646}
+  - component: {fileID: 114020950911355928}
+  - component: {fileID: 114082940956289212}
   m_Layer: 0
-  m_Name: SoundLibrary
+  m_Name: SoundManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4024764066355824
+--- !u!4 &4261636037111646
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1172690410887546}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 1757750207568724}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.97, z: -1.97}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114372359072475570
+--- !u!114 &114020950911355928
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1172690410887546}
+  m_GameObject: {fileID: 1757750207568724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77ef15d97dbf56c4e93b6e79fa32fab5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114082940956289212
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1757750207568724}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c0bba1f1523f0014baf33aa77808b5af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ac:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 2
-      time: 0
-      value: 0
-      inSlope: 1
-      outSlope: 1
-      tangentMode: 0
-    - serializedVersion: 2
-      time: 1
-      value: 1
-      inSlope: 1
-      outSlope: 1
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 0
   Level1:
   - Name: Hund
     Vibration: 0
     StepState: []
   - Name: Ringtone
-    Vibration: 0
-    StepState: []
-  - Name: Hund
-    Vibration: 0
-    StepState: []
-  - Name: Hund
     Vibration: 0
     StepState: []
   Level2: []
