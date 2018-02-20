@@ -8,6 +8,7 @@ public class SoundPlayerManager : BaseSingleton<SoundPlayerManager>
 {
     object _cookieObject;
 
+
     public void PlaySound(SoundEnum s,GameObject g)
     {
         StartCoroutine(AnimateSound(s,g));
@@ -21,7 +22,7 @@ public class SoundPlayerManager : BaseSingleton<SoundPlayerManager>
     }
     IEnumerator AnimateSound(SoundEnum s, GameObject g)
     {
-        AkSoundEngine.PostEvent(s.ToString(), g,AkCallbackType.AK_EndOfEvent,CallbackEvent,);
+        AkSoundEngine.PostEvent(s.ToString(), g,);
         SoundLibrary.WSound chosenSound;
         SoundLibrary.Instance.SoundDic.TryGetValue(s, out chosenSound);
 

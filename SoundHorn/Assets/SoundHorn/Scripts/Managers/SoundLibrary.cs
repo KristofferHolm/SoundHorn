@@ -28,15 +28,6 @@ namespace Managers
             }
         }
 
-
-
-
-
-       
-  
-
-
-
         [Serializable]
         public class WSound
         {
@@ -51,8 +42,6 @@ namespace Managers
                 public bool TextureStep;
             }
         }
-
-
 
         public string[] Enums
         {
